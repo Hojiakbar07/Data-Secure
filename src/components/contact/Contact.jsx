@@ -19,7 +19,7 @@ const Contact = () => {
                         <label>Message</label>
                         <textarea rows='10' placeholder='Enter your message' required/>
                     </div>
-                    <button>Submit</button>
+                    <button>Send</button>
                 </form>
             </div>
         </div>
